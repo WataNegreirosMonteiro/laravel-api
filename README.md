@@ -36,6 +36,8 @@ Striving to enhance best practices and discover new approaches, I am employing a
 
 </div>
 
+You can test the code by running the command ``php artisan play``. The lines of code are located in ``App/Console/Commands``.
+
 ## :rocket: Technologies
 
 This project was developed with the technologies:
